@@ -1,5 +1,5 @@
-### Next Bots are coming...
+# Next Bots are coming...
 
-# Support
+### Support
 
-# Privacy Policy
+### Privacy Policy
