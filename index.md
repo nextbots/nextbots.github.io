@@ -2,4 +2,4 @@
 
 ### [Support](./support.md)
 
-### [Privacy Policy](./policy.md)
+### [Privacy Policy](./privacy.md)
