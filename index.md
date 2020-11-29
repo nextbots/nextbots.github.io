@@ -1,5 +1,5 @@
 # Next Bots are coming...
 
-### Support
+### [Support](./support.md)
 
-### Privacy Policy
+### [Privacy Policy](./policy.md)
