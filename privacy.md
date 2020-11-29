@@ -1,4 +1,4 @@
-Privacy Policy for NextBots users.
+### Privacy Policy for NextBots users.
 
 
 
